@@ -1,0 +1,577 @@
+﻿{
+	"Chernobyl: Origins": {
+		"id": 1948090,
+		"genre": "Приключения",
+		"ref": "https://store.steampowered.com/app/1948090/Chernobyl_Origins/"
+	},
+
+	"The Tales of Bayun": {
+		"id": 1935470,
+		"genre": "Темное фэнтези",
+		"ref": "https://store.steampowered.com/app/1935470/The_Tales_of_Bayun/"
+	},
+
+	"The Mooseman": {
+		"id": 574310,
+		"genre": "Приключения",
+		"ref": "https://store.steampowered.com/app/574310/The_Mooseman/"
+	},
+
+	"Калибр": {
+		"id": 307950,
+		"genre": "Экшен",
+		"ref": "https://store.steampowered.com/app/307950/_/?l=russian"
+	},
+
+	"Кужлёвка": {
+		"id": 1365720,
+		"genre": "Приключения",
+		"ref": "https://store.steampowered.com/app/1365720/_/?l=russian"
+	},
+
+	"This War of Mine": {
+		"id": 282070,
+		"genre": "Приключения",
+		"ref": "https://store.steampowered.com/app/282070/This_War_of_Mine/"
+	},
+
+	"Battlefield 1": {
+		"id": 1238840,
+		"genre": "Экшен",
+		"ref": "https://store.steampowered.com/app/1238840/battlefield_1/"
+	},
+
+	"Cyberpunk 2077": {
+		"id": 1091500,
+		"genre": "Приключения",
+		"ref": "https://store.steampowered.com/app/1091500/Cyberpunk_2077/"
+	},
+
+	"Arma 3": {
+		"id": 107410,
+		"genre": "Экшен",
+		"ref": "https://store.steampowered.com/app/107410/Arma_3/"
+	},
+
+	"CoD: Black ops Cold war": {
+		"id": 1985810,
+		"genre": "Экшен",
+		"ref": "https://store.steampowered.com/app/1985810/Call_of_Duty_Black_Ops_Cold_War/"
+	},
+
+	"CoD: Modern Warfare": {
+		"id": 2000950,
+		"genre": "Экшен",
+		"ref": "https://store.steampowered.com/app/2000950/Call_of_Duty_Modern_Warfare/"
+	},
+
+	"Squad": {
+		"id": 393380,
+		"genre": "Экшен, Инди",
+		"ref": "https://store.steampowered.com/app/393380/Squad/"
+	},
+
+	"S.T.A.L.K.E.R.: Shadow of Chernobyl": {
+		"id": 4500,
+		"genre": "Экшен",
+		"ref": "https://store.steampowered.com/app/4500/STALKER_Shadow_of_Chernobyl/"
+	},
+
+	"Cossacks 3": {
+		"id": 333420,
+		"genre": "Стратегии",
+		"ref": "https://store.steampowered.com/app/333420/Cossacks_3/"
+	},
+
+	"Battlefield V": {
+		"id": 1238810,
+		"genre": "Экшен",
+		"ref": "https://store.steampowered.com/app/1238810/Battlefield_V/"
+	},
+
+	"Battlefield 4": {
+		"id": 1238860,
+		"genre": "Экшен",
+		"ref": "https://store.steampowered.com/app/1238860/Battlefield_4/"
+	},
+
+	"Battlefield 3": {
+		"id": 1238820,
+		"genre": "Экшен",
+		"ref": "https://store.steampowered.com/app/1238820/battlefield_3/"
+	},
+
+	"Sid Meier's Civilization VI": {
+		"id": 289070,
+		"genre": "Стратегия",
+		"ref": "https://store.steampowered.com/app/289070/sid_meiers_civilization_vi/"
+	},
+
+	"Hearts of Iron IV": {
+		"id": 394360,
+		"genre": "Стратегия",
+		"ref": "https://store.steampowered.com/app/394360/Hearts_of_Iron_IV/"
+	},
+
+	"CoD: World at War": {
+		"id": 10090,
+		"genre": "Экшен",
+		"ref": "https://store.steampowered.com/app/10090/Call_of_Duty_World_at_War/"
+	},
+
+	"Call of Duty (2003)": {
+		"id": 2620,
+		"genre": "Экшен",
+		"ref": "https://store.steampowered.com/app/2620/Call_of_Duty_2003/"
+	},
+
+	"Disco Elysium - The Final Cut": {
+		"id": 632470,
+		"genre": "Приключения",
+		"ref": "https://store.steampowered.com/app/632470/Disco_Elysium__The_Final_Cut/"
+	},
+
+	"The Witcher 3: Wild hunt": {
+		"id": 292030,
+		"genre": "Приключения",
+		"ref": "https://store.steampowered.com/app/292030/the_witcher_3_wild_hunt/"
+	},
+
+	"Fallout 4": {
+		"id": 377160,
+		"genre": "Приключения",
+		"ref": "https://store.steampowered.com/app/377160/Fallout_4/"
+	},
+
+	"Metro: Last Light Redux": {
+		"id": 287390,
+		"genre": "Приключения",
+		"ref": "https://store.steampowered.com/app/287390/metro_last_light_redux"
+	},
+
+	"Counter Strike 2": {
+		"id": 730,
+		"genre": "Экшен",
+		"ref": "https://store.steampowered.com/app/730/CounterStrike_2/"
+	},
+
+	"Tom Clancy's Rainbow Six® Siege": {
+		"id": 359550,
+		"genre": "Экшен",
+		"ref": "https://store.steampowered.com/app/359550/tom_clancys_rainbow_six_siege"
+	},
+
+	"Far Cry 5": {
+		"id": 552520,
+		"genre": "Экшен",
+		"ref": "https://store.steampowered.com/app/552520/Far_Cry_5/"
+	},
+
+	"Metro Exodus": {
+		"id": 412020,
+		"genre": "Приключения",
+		"ref": "https://store.steampowered.com/app/412020/Metro_Exodus/"
+	},
+
+	"Watch Dogs 2": {
+		"id": 447040,
+		"genre": "Экшен",
+		"ref": "https://store.steampowered.com/app/447040/Watch_Dogs_2/"
+	},
+
+	"God of War": {
+		"id": 447040,
+		"genre": "Приключения",
+		"ref": "https://store.steampowered.com/app/1593500/God_of_War/"
+	},
+
+	"Far Cry 4": {
+		"id": 298110,
+		"genre": "Экшен",
+		"ref": "https://store.steampowered.com/app/298110/Far_Cry_4"
+	},
+
+	"Insurgency: Sandstorm": {
+		"id": 581320,
+		"genre": "Экшен",
+		"ref": "https://store.steampowered.com/app/581320/Insurgency_Sandstorm/"
+	},
+
+	"Max Payne 3": {
+		"id": 204100,
+		"genre": "Экшен",
+		"ref": "https://store.steampowered.com/app/204100/max_payne_3/"
+	},
+
+	"Metro 2033 Redux": {
+		"id": 286690,
+		"genre": "Экшен",
+		"ref": "https://store.steampowered.com/app/286690/metro_2033_redux"
+	},
+
+	"Last Train Home": {
+		"id": 1469610,
+		"genre": "Стратегия",
+		"ref": "https://store.steampowered.com/app/1469610/Last_Train_Home/"
+	},
+
+	"Assassin’s Creed® Chronicles: Russia": {
+		"id": 359600,
+		"genre": "Экшен",
+		"ref": "https://store.steampowered.com/app/359600/Assassins_Creed_Chronicles_Russia/"
+	},
+
+	"Company of Heroes 2": {
+		"id": 231430,
+		"genre": "Стратегия",
+		"ref": "https://store.steampowered.com/app/231430/Company_of_Heroes_2/"
+	},
+
+	"Call of Duty": {
+		"id": 1938090,
+		"genre": "Экшен",
+		"ref": "https://store.steampowered.com/app/1938090/Call_of_Duty/"
+	},
+
+	"Bright Lights of Svetlov": {
+		"id": 1630920,
+		"genre": "Инди",
+		"ref": "https://store.steampowered.com/app/1630920/Bright_Lights_of_Svetlov/"
+	},
+
+	"Dune: Imperium": {
+		"id": 1689500,
+		"genre": "Стратегия",
+		"ref": "https://store.steampowered.com/app/1689500/Dune_Imperium/"
+	},
+
+	"Wolfenstein: The New Order": {
+		"id": 201810,
+		"genre": "Экшен",
+		"ref": "https://store.steampowered.com/app/201810/Wolfenstein_The_New_Order/"
+	},
+
+	"Tom Clancy's Ghost Recon® Breakpoint": {
+		"id": 2231380,
+		"genre": "Приключения",
+		"ref": "https://store.steampowered.com/app/2231380/Tom_Clancys_Ghost_Recon_Breakpoint/"
+	},
+
+	"Easy Red 2": {
+		"id": 1324780,
+		"genre": "Стратегия",
+		"ref": "https://store.steampowered.com/app/1324780/Easy_Red_2/"
+	},
+
+	"Men of War: Assault Squad 2": {
+		"id": 1135240,
+		"genre": "Стратегия",
+		"ref": "https://store.steampowered.com/app/1135240/Men_of_War_Assault_Squad_2__Cold_War/"
+	},
+
+	"Garry's Mod": {
+		"id": 4000,
+		"genre": "Приключения",
+		"ref": "https://store.steampowered.com/app/4000/Garrys_Mod/"
+	},
+
+	"BattleBit Remastered": {
+		"id": 671860,
+		"genre": "Экшен",
+		"ref": "https://store.steampowered.com/app/671860/BattleBit_Remastered/"
+	},
+
+	"METAL GEAR SOLID V: THE PHANTOM PAIN": {
+		"id": 287700,
+		"genre": "Экшен",
+		"ref": "https://store.steampowered.com/app/287700/METAL_GEAR_SOLID_V_THE_PHANTOM_PAIN/"
+	},
+
+	"Pavlov VR": {
+		"id": 555160,
+		"genre": "Экшен",
+		"ref": "https://store.steampowered.com/app/555160/Pavlov_VR/"
+	},
+
+	"Blood and Bacon": {
+		"id": 434570,
+		"genre": "Экшен",
+		"ref": "https://store.steampowered.com/app/434570/Blood_and_Bacon/"
+	},
+
+	"Mafia II (Classic)": {
+		"id": 50130,
+		"genre": "Экшен",
+		"ref": "https://store.steampowered.com/app/50130/Mafia_II_Classic/"
+	},
+
+	"Just Cause 2": {
+		"id": 8190,
+		"genre": "Экшен",
+		"ref": "https://store.steampowered.com/app/8190/Just_Cause_2/"
+	},
+
+	"Ravenfield": {
+		"id": 636480,
+		"genre": "Экшен",
+		"ref": "https://store.steampowered.com/app/636480/Ravenfield/"
+	},
+
+	"Bioshock": {
+		"id": 7670,
+		"genre": "Экшен",
+		"ref": "https://store.steampowered.com/app/7670/BioShock/"
+	},
+
+	"Хогвартс. Наследие": {
+		"id": 990080,
+		"genre": "Экшен",
+		"ref": "https://store.steampowered.com/app/990080/_/"
+	},
+
+	"Contraband Police": {
+		"id": 756800,
+		"genre": "Инди",
+		"ref": "https://store.steampowered.com/app/756800/Contraband_Police/"
+	},
+
+	"Tiny Bunny": {
+		"id": 1421250,
+		"genre": "Приключения",
+		"ref": "https://store.steampowered.com/app/1421250/Tiny_Bunny/"
+	},
+
+	"Calm Down, Stalin": {
+		"id": 502940,
+		"genre": "Казуальные игры",
+		"ref": "https://store.steampowered.com/app/502940/Calm_Down_Stalin/"
+	},
+
+	"Холат - перевал Дятлова": {
+		"id": 343710,
+		"genre": "Приключения",
+		"ref": "https://store.steampowered.com/app/343710/_/"
+	},
+
+	"Valiant Hearts: The Great War™": {
+		"id": 260230,
+		"genre": "Приключения",
+		"ref": "https://store.steampowered.com/app/260230/Valiant_Hearts_The_Great_War__Soldats_Inconnus__Mmoires_de_la_Grande_Guerre/"
+	},
+
+	"Iron Harvest": {
+		"id": 826630,
+		"genre": "Стратегия",
+		"ref": "https://store.steampowered.com/app/826630/Iron_Harvest/"
+	},
+
+	"Call of Duty®: WWII": {
+		"id": 476600,
+		"genre": "Экшен",
+		"ref": "https://store.steampowered.com/app/476600/Call_of_Duty_WWII/"
+	},
+
+	"Call of Duty®: Modern Warfare 2 (2009)": {
+		"id": 10180,
+		"genre": "Экшен",
+		"ref": "https://store.steampowered.com/app/10180/Call_of_Duty_Modern_Warfare_2_2009/"
+	},
+
+	"Police Simulator: Patrol Officers": {
+		"id": 997010,
+		"genre": "Инди",
+		"ref": "https://store.steampowered.com/app/997010/Police_Simulator_Patrol_Officers/"
+	},
+
+	"DOKA 2 KISHKI EDITION": {
+		"id": 967250,
+		"genre": "Инди",
+		"ref": "https://store.steampowered.com/app/967250/DOKA_2_KISHKI_EDITION/"
+	},
+
+	"Red Orchestra 2: Heroes of Stalingrad with Rising Storm": {
+		"id": 35450,
+		"genre": "Экшен",
+		"ref": "https://store.steampowered.com/app/35450/Red_Orchestra_2_Heroes_of_Stalingrad_with_Rising_Storm/"
+	},
+
+	"Call of Duty®: Black Ops II": {
+		"id": 202970,
+		"genre": "Экшен",
+		"ref": "https://store.steampowered.com/app/202970/Call_of_Duty_Black_Ops_II/"
+	},
+
+	"Far Cry 6": {
+		"id": 202970,
+		"genre": "Экшен",
+		"ref": "https://store.steampowered.com/app/2369390/Far_Cry_6/"
+	},
+
+	"Tropico 6": {
+		"id": 492720,
+		"genre": "Стратегия",
+		"ref": "https://store.steampowered.com/app/492720/Tropico_6/"
+	},
+
+	"Mount & Blade: With Fire & Sword": {
+		"id": 48720,
+		"genre": "Экшен",
+		"ref": "https://store.steampowered.com/app/48720/Mount__Blade_With_Fire__Sword/"
+	},
+
+	"Brotato": {
+		"id": 1942280,
+		"genre": "Приключения",
+		"ref": "https://store.steampowered.com/app/1942280/Brotato/"
+	},
+
+	"My Friend Pedro": {
+		"id": 557340,
+		"genre": "Приключения",
+		"ref": "https://store.steampowered.com/app/557340/My_Friend_Pedro/"
+	},
+
+	"Half-Life: Opposing Force": {
+		"id": 50,
+		"genre": "Приключения",
+		"ref": "https://store.steampowered.com/app/50/HalfLife_Opposing_Force/"
+	},
+
+	"РУСЫ ПРОТИВ ЯЩЕРОВ": {
+		"id": 2532550,
+		"genre": "Экшен",
+		"ref": "https://store.steampowered.com/app/2532550/_/"
+	},
+
+	"MORDHAU": {
+		"id": 629760,
+		"genre": "Экшен",
+		"ref": "https://store.steampowered.com/app/629760/MORDHAU/"
+	},
+
+	"Medieval Dynasty": {
+		"id": 1129580,
+		"genre": "Приключения",
+		"ref": "https://store.steampowered.com/app/1129580/Medieval_Dynasty/"
+	},
+
+	"Serious Sam 2": {
+		"id": 2043340,
+		"genre": "Приключения",
+		"ref": "https://store.steampowered.com/app/204340/Serious_Sam_2/"
+	},
+
+	"World War Z": {
+		"id": 699130,
+		"genre": "Приключения",
+		"ref": "https://store.steampowered.com/app/699130/World_War_Z/"
+	},
+
+	"HROT": {
+		"id": 824600,
+		"genre": "Приключения",
+		"ref": "https://store.steampowered.com/app/824600/HROT/"
+	},
+
+	"RoboCop: Rogue City": {
+		"id": 1681430,
+		"genre": "Приключения",
+		"ref": "https://store.steampowered.com/app/1681430/RoboCop_Rogue_City/"
+	},
+
+	"A Plague Tale: Requiem": {
+		"id": 1182900,
+		"genre": "Приключения",
+		"ref": "https://store.steampowered.com/app/1182900/A_Plague_Tale_Requiem/"
+	},
+
+	"Serious Sam 4": {
+		"id": 257420,
+		"genre": "Приключения",
+		"ref": "https://store.steampowered.com/app/257420/Serious_Sam_4/"
+	},
+
+	"Warhammer 40,000: Boltgun": {
+		"id": 2005010,
+		"genre": "Приключения",
+		"ref": "https://store.steampowered.com/app/2005010/Warhammer_40000_Boltgun/"
+	},
+
+	"Day of Defeat: Source": {
+		"id": 300,
+		"genre": "Приключения",
+		"ref": "https://store.steampowered.com/app/300/Day_of_Defeat_Source/"
+	},
+
+	"Darksiders Warmastered Edition": {
+		"id": 462780,
+		"genre": "Приключения",
+		"ref": "https://store.steampowered.com/app/462780/Darksiders_Warmastered_Edition/"
+	},
+
+	"DayZ": {
+		"id": 221100,
+		"genre": "Приключения",
+		"ref": "https://store.steampowered.com/app/221100/DayZ/"
+	},
+
+	"Ready or Not": {
+		"id": 1144200,
+		"genre": "Приключения",
+		"ref": "https://store.steampowered.com/app/1144200/Ready_or_Not/"
+	},
+
+	"Six Days in Fallujah": {
+		"id": 1548850,
+		"genre": "Экшен",
+		"ref": "https://store.steampowered.com/app/1548850/Six_Days_in_Fallujah/"
+	},
+
+	"Military Conflict: Vietnam": {
+		"id": 1012110,
+		"genre": "Экшен",
+		"ref": "https://store.steampowered.com/app/1012110/Military_Conflict_Vietnam/"
+	},
+
+	"Sniper Elite 3": {
+		"id": 238090,
+		"genre": "Экшен",
+		"ref": "https://store.steampowered.com/app/238090/Sniper_Elite_3/"
+	},
+
+	"Rising Storm 2: Vietnam": {
+		"id": 418460,
+		"genre": "Экшен",
+		"ref": "https://store.steampowered.com/app/418460/Rising_Storm_2_Vietnam/"
+	},
+
+	"Call of Duty®: Vanguard": {
+		"id": 1985820,
+		"genre": "Экшен",
+		"ref": "https://store.steampowered.com/app/1985820/Call_of_Duty_Vanguard/"
+	},
+
+	"Tank Mechanic Simulator": {
+		"id": 407130,
+		"genre": "Экшен",
+		"ref": "https://store.steampowered.com/app/407130/Tank_Mechanic_Simulator/"
+	},
+
+	"Escape From Russia: Mobilization": {
+		"id": 2251380,
+		"genre": "Экшен",
+		"ref": "https://store.steampowered.com/app/2251380/Escape_From_Russia_Mobilization/"
+	},
+
+	"Survivalist: Invisible Strain": {
+		"id": 1054510,
+		"genre": "Приключения",
+		"ref": "https://store.steampowered.com/app/1054510/Survivalist_Invisible_Strain/"
+	},
+
+	"Atomic Heart": {
+		"id": 668580,
+		"genre": "Экшен",
+		"ref": "https://store.steampowered.com/app/668580/Atomic_Heart/"
+	}
+}
